@@ -1,4 +1,4 @@
-public class Third_task {
+public class Third_task_part1_part2 {
     public static void main(String[] args) {
         //Задание 3.1 + Задание 3.2
         System.out.println("Задание 1.1 + Задание 1.2");

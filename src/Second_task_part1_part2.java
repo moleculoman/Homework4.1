@@ -1,14 +1,14 @@
-public class Second_task {
+public class Second_task_part1_part2 {
     public static void main(String[] args) {
         //Задание 2.1 + Задание 2.2
         System.out.println("Задание 2.1 + Задание 2.2");
 
-        int age =19;
-        if (age >=7 && age <18) {
+        int ageOfPerson =19;
+        if (ageOfPerson >=7 && ageOfPerson <18) {
             System.out.println("Ты ходишь в школу");
-        } else if(age >=18 && age <24){
+        } else if(ageOfPerson >=18 && ageOfPerson <24){
             System.out.println("Поздравляю с окончанием школы!Ты можешь пойти в институт.");
-        } else if (age >=24) {
+        } else if (ageOfPerson >=24) {
             System.out.println("Поздравляю с окончанием университета, пора искать первую работу!");
         }
 

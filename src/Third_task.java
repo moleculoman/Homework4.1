@@ -1,7 +1,7 @@
 public class Third_task {
     public static void main(String[] args) {
-        //Задание 3
-        System.out.println("Задание 3");
+        //Задание 3.1 + Задание 3.2
+        System.out.println("Задание 1.1 + Задание 1.2");
         int amountOfSeats = 102;
         int amountOfSeatingSeats = 60;
         int personSeat = 103;

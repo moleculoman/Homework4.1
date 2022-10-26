@@ -1,7 +1,7 @@
 public class Second_task {
     public static void main(String[] args) {
-        //Задание 2
-        System.out.println("Задание 2");
+        //Задание 2.1 + Задание 2.2
+        System.out.println("Задание 2.1 + Задание 2.2");
 
         int age =19;
         if (age >=7 && age <18) {
